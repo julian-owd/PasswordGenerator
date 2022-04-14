@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "PasswordGenerator",
+  "description": "Generate passwords and copy them",
+  "version": "0.1",
+  "icons": {
+    "16": "/images/icon-16.png",
+    "32": "/images/icon-32.png",
+    "48": "/images/icon-48.png",
+    "64": "/images/icon-64.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "/images/icon-16.png",
+      "32": "/images/icon-32.png",
+      "48": "/images/icon-48.png",
+      "64": "/images/icon-64.png"
+    },
+    "default_popup": "/src/index.html",
+    "deault_title": "Password Generator"
+  }
+}
